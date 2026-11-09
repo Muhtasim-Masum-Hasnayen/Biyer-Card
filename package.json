@@ -1,0 +1,7 @@
+{
+  "name": "biyer-card",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Animated Bangladeshi wedding invitation card builder",
+  "engines": { "node": ">=18" }
+}
